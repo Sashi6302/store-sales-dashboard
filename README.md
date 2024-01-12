@@ -5,7 +5,7 @@
 This project focuses on analyzing the sales data of a Superstore to identify areas with the least sales. Using Python and popular data analysis libraries such as pandas, matplotlib, numpy, and seaborn, the analysis explores various aspects, including regional sales distribution, category-wise sales, segment-wise sales, and identifying states and cities with the lowest sales.
 
 ### Project Link:
-[Superstore Data Analysis](Project Code)
+[https://github.com/Sashi6302/store-sales-dashboard/tree/main]
 
 ## Description
 
